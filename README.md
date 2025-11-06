@@ -1,5 +1,6 @@
 # cars_data_project
-Vehicle Pricing & Fuel Efficiency Analysis
+* Vehicle Pricing & Fuel Efficiency Analysis
+
 This project explores relationships between vehicle characteristics, pricing, and fuel efficiency, using a dataset of cars with attributes such as MSRP, horsepower, drivetrain, transmission type, and MPG. The analysis focuses on uncovering pricing patterns, performance trade-offs, and market trends, while applying rigorous data cleaning, imputation, and feature engineering strategies to ensure high-quality results.
 
 🔍 Project Objectives
